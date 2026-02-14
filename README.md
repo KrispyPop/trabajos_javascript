@@ -1,1 +1,1 @@
-These are Javascript exercise
+These are Javascript exercises
